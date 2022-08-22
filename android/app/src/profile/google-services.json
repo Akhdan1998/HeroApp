@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490656812263",
+    "project_id": "myheroapp-f2a1d",
+    "storage_bucket": "myheroapp-f2a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490656812263:android:7b3a239aa111e1f1cba642",
+        "android_client_info": {
+          "package_name": "com.timun.heroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490656812263-u63k4kbgft29a9obcua9spiiir0tf5b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd8_fl1gNNU0LPED9N7GxCvopehDWoRZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490656812263-u63k4kbgft29a9obcua9spiiir0tf5b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
